@@ -1,4 +1,5 @@
 # Web Scraper Notebook
+## General functionality of Web Scraper
 - This notebook contains functionality to grab html code from the specified url "https://corgis-edu.github.io/corgis/csv/". 
 - To grab the html code, the notebook utilizes the 'requests' python library and converts into a readable text string.
 - Utilizing the 'BeautifulSoup' library, we create an html parser object that we can utilize to query specific html tags for search.
