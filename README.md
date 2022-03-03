@@ -15,5 +15,5 @@
 ## Health Dataset
 - Finally, we do the same thing with the dataset labeled 'Health'. 
 - We filter the data to only include lines pertaining to the 'Measles' virus and plots the frequency of measles outbreaks over the years. 
-- Plot type: Histogran
+- Plot type: Histogram
 
